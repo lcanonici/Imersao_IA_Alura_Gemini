@@ -15,4 +15,4 @@ Precisando de dicas de como dormir bem, se alimentar melhor ou ter uma vida mais
 - Tornar sua jornada de saúde mais divertida e engajadora
 Comece a conversar com o SaudeAI hoje mesmo e dê o primeiro passo para uma vida mais saudável!
 
-Para esse projeto utilizei linguagem Pyton, API do Google e conceitos de engenharia de prompt.
+Para esse projeto utilizei linguagem Python, API do Google e conceitos de engenharia de prompt.
